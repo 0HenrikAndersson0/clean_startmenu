@@ -1,5 +1,13 @@
+<img src="https://github.com/user-attachments/assets/fbc9d332-3269-43bf-93c8-75472e9be20d" alt="image" width="500" />
 
 Small deno script for removing dead links from the windows start menu
 
-![image](https://github.com/user-attachments/assets/648c8a3c-a83b-4180-99a7-516d66bcf567)
+Run with:
+
+`deno run --allow read --allow-write --path {optional}`
+
+
+
+
+
 
